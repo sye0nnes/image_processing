@@ -1,6 +1,6 @@
 # image_processing
 
-이 프로젝트는 이미지 기반 이상 탐지 시스템 구현을 위한 코드입니다.
+ 이상 탐지 시스템 구현을 위한 코드입니다.
 ##  폴더 구조
 - `images/reference/` – 기준 이미지
 - `images/current/` – 현재 촬영된 이미지
